@@ -1,0 +1,40 @@
+{
+  "payload": {
+    "name": "cab0204@yahoo.com",
+    "email": "cab0204@yahoo.com",
+    "licenses": [
+      {
+        "id": "96-06BD-40BD-48",
+        "owner": "cab0204@yahoo.com",
+        "product_id": "IDAFREE",
+        "edition_id": "ida-free",
+        "description": "IDA Free PC",
+        "start_date": "2026-09-29",
+        "end_date": "2027-09-29",
+        "issued_on": "2026-09-29 11:01:23",
+        "license_type": "named",
+        "seats": 1,
+        "add_ons": [
+          {
+            "id": "97-6326-6C41-1D",
+            "code": "HEXCX64",
+            "owner": "96-06BD-40BD-48",
+            "start_date": "2026-09-29",
+            "end_date": "2027-09-29"
+          },
+          {
+            "id": "97-23F9-08E4-61",
+            "code": "HEXCX86",
+            "owner": "96-06BD-40BD-48",
+            "start_date": "2026-09-29",
+            "end_date": "2027-09-29"
+          }
+        ]
+      }
+    ]
+  },
+  "header": {
+    "version": 1
+  },
+  "signature": "DCCAA2133BDF41EA0AB0FDE1B2D436D0747DA21B017679A968141B134785807C761D87DB1682A429CAABF1A60787CB541312529F5ACBCB4AD7B955086D1E8E957ACA99EB56747C72F87890E0CE274D05F4034669412CE67A7FBEB5FF07B711B20279FCAB6098DA56320B7447149E5A5028A98386E81DACA7748F133FDFAA2935"
+}
